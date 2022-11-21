@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @demzs
-- 👀 I’m interested in web developing, webscraping, internet security and automation tools for sneaker copping
+- 👀 I’m interested in web developing, webscraping, internet security, design and automation tools for sneakers
 - 🌱 I’m currently learning Java, JavaScript, Html, Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
